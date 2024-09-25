@@ -5,7 +5,8 @@
 
 
 # About me 
-## My interest are: The gym, Music, Traveling
+## My interest:
+### My interest are: The gym, Music, Traveling
 ## Websites tyhat i find interesting
 [Github](https://github.com/) - I find Github to be an interesting website becuse it allowsd you to sote files as well as code for porjects
 [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/browse/)- Microsft Learn is a great resource where you can study differnt certitifications
